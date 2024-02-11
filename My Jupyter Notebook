@@ -1,0 +1,9 @@
+Greeting message 
+def say_cheers(recipient):
+return'Cheers ,from{}!'.format(reciepient)
+say_cheers('Haarika Alla')
+
+output-
+1.Eat
+2.Code
+3.Sleep
